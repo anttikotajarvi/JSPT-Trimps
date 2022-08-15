@@ -1,5 +1,5 @@
 # JSPT-Trimps
-##JavaSript Performance Trick 
+## JavaSript Performance Trick 
 Script for Trimps to keep the browser from deferring JS while the window is not active by emitting a, low, barely[^1] audible sound
 
 While on turned, on the tab will emit a quiet, almost inaudible, constant static sound to keep the browser from slowing down JS processing when the tab is not infocus.
